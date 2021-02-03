@@ -13,8 +13,8 @@
 
 Для подключения к гугл таблице нужно использовать Google Api. Подробнее можно прочитать тут: https://habr.com/ru/post/483302/
 
-Вместо <json> вам потребуется указать ваши значения, которые сгенерирует Google. 
-Также вместо <Token> необходимо указать ваш telegram token. Подробнее тут: https://romua1d.ru/kak-poluchit-token-bota-telegram-api/
+Вместо '<json>' вам потребуется указать ваши значения, которые сгенерирует Google. 
+Также вместо '<Token>' необходимо указать ваш telegram token. Подробнее тут: https://romua1d.ru/kak-poluchit-token-bota-telegram-api/
 
 Бесплатно разместить бота можно на www.pythonanywhere.com
 
