@@ -1,4 +1,4 @@
-# TIMETABLE_BOT
+# TIMETABLE BOT
 Бот в телеграм с расписание занятий
 ![Image alt](https://github.com/BUR1358/kigm23bot/blob/main/kigm23bot_pic.png)
 
